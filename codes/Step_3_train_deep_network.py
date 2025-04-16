@@ -1,6 +1,6 @@
-##Creator: Xinghua cheng
-##Date: 16/04/2025
+##Creator: Xinghua Cheng
 ##Contact: xinghua.cheng@uconn.edu
+##Date: April 16, 2025
 
 ##Goal: to train a neural network for predicting GPP
 ##Note: xinghua used ChatGPT 4.0 to enhance programming.
