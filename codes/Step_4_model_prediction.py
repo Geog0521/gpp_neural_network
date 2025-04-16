@@ -1,8 +1,8 @@
-##Creator: Xinghua cheng
-##Date: 16/04/2025
+##Creator: Xinghua Cheng
 ##Contact: xinghua.cheng@uconn.edu
+##Date: April 15, 2025
 
-##Goal: to train a neural network for predicting GPP
+##Goal: to test the trained neural network from "Step_3_train_deep_network.py"
 ##Note: xinghua used ChatGPT 4.0 to enhance programming.
 
 import torch
