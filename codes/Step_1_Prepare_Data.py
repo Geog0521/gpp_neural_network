@@ -2,7 +2,7 @@
 ##Contact: xinghua.cheng@uconn.edu
 ##Date: April 15, 2025
 
-##Goal: to prepare data for the neural network input
+##Goal: to prepare input data for the neural network
 import os
 import pandas as pd
 
